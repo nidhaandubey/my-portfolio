@@ -1,7 +1,7 @@
 {
   "name": "Nidhaan Dubey",
-  "title": "Full Stack Developer | ML Enthusiast",
-  "description": "A passionate problem solver and aspiring ML engineer skilled in React.js, Node.js, and Python. Strong foundation in DSA with 500+ problems solved.",
+  "title": "Final-year B.Tech Computer Science student at the Indian Institute of Information Technology(IIIT), Sonepat",
+  "description": "I have strong foundation in full-stack development, machine learning, and problem-solving.I’ve built and deployed real-world applications using React.js, Node.js, MongoDB, and Python, and contributed to scalable, production-ready modules during my internship at FACT-APP. On the ML front, I’m actively working on projects like low-light image enhancement and have hands-on experience with key libraries like NumPy, Pandas, and scikit-learn for data analysis and model development. With over 600+ DSA problems solved and a 1600+ LeetCode rating ",
   "contact": {
     "email": "nidhaandubey2@gmail.com",
     "linkedin": "https://linkedin.com/in/nidhaan-dubey-73a790250/",
@@ -9,17 +9,16 @@
     "leetcode": "https://leetcode.com/u/nidhaan_dubey/"
   },
   "skills": {
-    "Programming Languages": ["C/C++", "Python", "JavaScript", "HTML", "CSS"],
-    "Frameworks & Libraries": ["React.js", "Node.js", "Express", "Redux", "Bootstrap"],
-    "Tools & Platforms": ["MongoDB", "AWS", "Selenium", "Git"],
-    "Soft Skills": ["Communication", "Teamwork", "Reasoning"]
+    "Technical Skills": ["C/C++", "Python", "JavaScript","ReactJS","React-Native", "Node.js", "Express", "Bootstrap","MongoDB", "Selenium"],
+    "Soft Skills": ["Communication", "Reasoning", "Teamwork", "Collaboration"],
+    "Coursework": ["Data Structures and Algorithms (DSA)", "Object-Oriented Programming", "DBMS", "Operating Systems", "Computer Networks"]
   },
   "projects": [
     {
-      "title": "Responsive News Website",
-      "duration": "Jan 2024 – Mar 2024",
-      "description": "Engineered a responsive website with React, Node, and Bootstrap using a News API for real-time updates.",
-      "github": "https://github.com/nidhaandubey/newsapp"
+      "title": "LinkedIN Scraper Tool",
+      "duration": "Feb 2025 – Mar 2025",
+      "description": "Built a dynamic scraper using Selenium and BeautifulSoup to extract complex structured data.",
+      "github": "https://github.com/nidhaandubey/linkedin"
     },
     {
       "title": "OS Scheduling Algorithms",
@@ -28,10 +27,10 @@
       "github": "https://github.com/nidhaandubey/Scheduling_Algo"
     },
     {
-      "title": "Web Scraper Tool",
-      "duration": "Feb 2025 – Mar 2025",
-      "description": "Built a dynamic scraper using Selenium and BeautifulSoup to extract complex structured data.",
-      "github": "https://github.com/nidhaandubey/linkedin"
+      "title": "Responsive News Website",
+      "duration": "Jan 2024 – Mar 2024",
+      "description": "Engineered a responsive website with React, Node, and Bootstrap using a News API for real-time updates.",
+      "github": "https://github.com/nidhaandubey/newsapp"
     }
   ],
   "experience": [
@@ -40,7 +39,14 @@
       "company": "FACT-APP",
       "duration": "Jun 2023 – Aug 2023",
       "description": "Worked on full-stack modules using React, Node.js, and MongoDB. Improved UI responsiveness and optimized backend."
+    },
+    {
+      "role": "Enigmatics — Coding Club",
+      "company": " IIITSonepat",
+      "duration": "March 2024 - present",
+      "description": "Worked on full-stack modules using React, Node.js, and MongoDB. Improved UI responsiveness and optimized backend."
     }
+
   ],
   "education": {
     "institution": "Indian Institute of Information Technology (IIIT), Sonepat",
@@ -49,11 +55,11 @@
     "cgpa": "8.0"
   },
   "achievements": [
-    "Solved 500+ DSA problems across LeetCode, CN, GFG",
-    "LeetCode Contest Rating: 1600+, top 25% globally",
-    "Specialist Coder at Coding Ninjas",
-    "Good-performance rating during internship",
-    "State Rank 15 in NTSE 2019",
-    "97.3 percentile in JEE Main, AIR 24,793"
+  "Solved 600+ Data Structures & Algorithms problems across platforms like LeetCode, Coding Ninjas, and GeeksforGeeks",
+  "Achieved a LeetCode Contest Rating of 1600+, ranking in the top 25% globally",
+  "Recognized as a Specialist Coder by Coding Ninjas for problem-solving excellence",
+  "Received positive performance feedback during software development internship at FACT-APP",
+  "Secured State Rank 15 in the prestigious NTSE (National Talent Search Examination) 2019",
+  "Scored 97.3 percentile in JEE Main with an All India Rank (AIR) of 24,793"
   ]
 }
