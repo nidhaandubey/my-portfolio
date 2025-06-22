@@ -1,0 +1,59 @@
+{
+  "name": "Nidhaan Dubey",
+  "title": "Full Stack Developer | ML Enthusiast",
+  "description": "A passionate problem solver and aspiring ML engineer skilled in React.js, Node.js, and Python. Strong foundation in DSA with 500+ problems solved.",
+  "contact": {
+    "email": "nidhaandubey2@gmail.com",
+    "linkedin": "https://linkedin.com/in/nidhaan-dubey-73a790250/",
+    "github": "https://github.com/nidhaandubey",
+    "leetcode": "https://leetcode.com/u/nidhaan_dubey/"
+  },
+  "skills": {
+    "Programming Languages": ["C/C++", "Python", "JavaScript", "HTML", "CSS"],
+    "Frameworks & Libraries": ["React.js", "Node.js", "Express", "Redux", "Bootstrap"],
+    "Tools & Platforms": ["MongoDB", "AWS", "Selenium", "Git"],
+    "Soft Skills": ["Communication", "Teamwork", "Reasoning"]
+  },
+  "projects": [
+    {
+      "title": "Responsive News Website",
+      "duration": "Jan 2024 – Mar 2024",
+      "description": "Engineered a responsive website with React, Node, and Bootstrap using a News API for real-time updates.",
+      "github": "https://github.com/nidhaandubey/newsapp"
+    },
+    {
+      "title": "OS Scheduling Algorithms",
+      "duration": "Jan 2024 – Feb 2024",
+      "description": "Implemented 6 CPU scheduling algorithms using C++ OOP, analyzing performance metrics.",
+      "github": "https://github.com/nidhaandubey/Scheduling_Algo"
+    },
+    {
+      "title": "Web Scraper Tool",
+      "duration": "Feb 2025 – Mar 2025",
+      "description": "Built a dynamic scraper using Selenium and BeautifulSoup to extract complex structured data.",
+      "github": "https://github.com/nidhaandubey/linkedin"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Growth Intern",
+      "company": "FACT-APP",
+      "duration": "Jun 2023 – Aug 2023",
+      "description": "Worked on full-stack modules using React, Node.js, and MongoDB. Improved UI responsiveness and optimized backend."
+    }
+  ],
+  "education": {
+    "institution": "Indian Institute of Information Technology (IIIT), Sonepat",
+    "duration": "Nov 2022 – Apr 2026",
+    "degree": "B.Tech in Computer Science and Engineering",
+    "cgpa": "8.0"
+  },
+  "achievements": [
+    "Solved 500+ DSA problems across LeetCode, CN, GFG",
+    "LeetCode Contest Rating: 1600+, top 25% globally",
+    "Specialist Coder at Coding Ninjas",
+    "Good-performance rating during internship",
+    "State Rank 15 in NTSE 2019",
+    "97.3 percentile in JEE Main, AIR 24,793"
+  ]
+}

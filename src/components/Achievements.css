@@ -1,0 +1,40 @@
+.achievements-section {
+  background-color: #ffffff;
+  padding: 60px 20px;
+  color: #333333;
+}
+
+.section-title {
+  font-size: 2rem;
+  color: #222222;
+  text-align: left;
+  margin-left: 10%;
+  margin-bottom: 40px;
+}
+
+.achievements-list {
+  list-style: none;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.achievement-item {
+  background-color: #f6fef6;
+  border: 1px solid #d8f5da;
+  padding: 15px 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #444444;
+  position: relative;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.achievement-item::before {
+  content: "🏅";
+  font-size: 1.2rem;
+}
